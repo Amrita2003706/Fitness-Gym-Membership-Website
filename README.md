@@ -47,14 +47,23 @@ Edit
 /fitness-website
 │
 ├── index.html
+
 ├── about.html
+
 ├── contact.html
+
 ├── style.css
+
 ├── responsive.css
+
 ├── /images
+
 │   └── (logo, banners, background images)
+
 └── /videos
+
     └── demo.mp4
+    
 📌 Usage:
 You can use this website template for:
 
