@@ -62,7 +62,7 @@ Edit
 
 └── /videos
 
-    └── demo.mp4
+    └── Fitness.mp4
     
 📌 Usage:
 You can use this website template for:
