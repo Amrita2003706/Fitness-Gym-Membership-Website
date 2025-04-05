@@ -220,7 +220,7 @@ header{
     color: blue;
 }
 .banner{
-    background-image: url("https://wallpaperaccess.com/full/834258.jpg");
+    background-image: url("banner.png");
     background-size: cover;
     height: 800px;
     width: 100%;
