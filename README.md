@@ -1,5 +1,9 @@
 🎥 Project Title: Responsive Fitness Website | Gym Landing Page UI
 
+🌐 Live Demo: https://amrita2003706.github.io/Fitness-Gym-Membership-Website/
+
+📂 GitHub Repo: Fitness-Gym-Membership-Website
+
 📌 Project Description
 Welcome to the Fitness Website Landing Page – a fully responsive, modern, and sleek web design made for gyms, fitness centers, personal trainers, or any health-focused organization. This project showcases a vibrant, high-impact homepage that's designed to grab attention and deliver essential information quickly and efficiently.
 
@@ -75,9 +79,6 @@ Showcasing in your Resume/Portfolio
 
 Fitness Studio Websites
 
-
-🔗 GitHub Repository:
-📁 View Source Code on GitHub 
 
 🙌 Author:
 Amrita Vishwakarma
