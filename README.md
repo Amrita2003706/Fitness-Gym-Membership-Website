@@ -66,8 +66,6 @@ Showcasing in your Resume/Portfolio
 
 Fitness Studio Websites
 
-📷 Thumbnail:
-
 
 🔗 GitHub Repository:
 📁 View Source Code on GitHub 
