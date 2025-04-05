@@ -1,8 +1,14 @@
-🏋️‍♀️ Fitness Club Website - Frontend Project
-Welcome to the Fitness Club Website Project – a responsive, modern, and stylish frontend web design created using HTML5, CSS3, Bootstrap 5, and Font Awesome. This project is perfect for fitness centers, gyms, or personal trainers looking for a clean and engaging online presence.
+🎥 Project Title: Responsive Fitness Website | Gym Landing Page UI
+
+📌 Project Description
+Welcome to the Fitness Website Landing Page – a fully responsive, modern, and sleek web design made for gyms, fitness centers, personal trainers, or any health-focused organization. This project showcases a vibrant, high-impact homepage that's designed to grab attention and deliver essential information quickly and efficiently.
+
+![ffc66a7c-5726-4866-9e21-4bdc9043fad0](https://github.com/user-attachments/assets/7ccf3853-f096-4565-ab2a-374a33d2138a)
+
+
 
 🌐 Live Preview:
-🔗 Watch the Full Demo Video
+🔗 Live Demo / Video: Watch on YouTube
 
 🚀 Features:
 🔥 Fully Responsive Layout
