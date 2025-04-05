@@ -4,6 +4,9 @@
 
 📂 GitHub Repo: Fitness-Gym-Membership-Website
 
+🌐 Live Preview:
+🔗 Live Demo / Video: Watch on YouTube https://youtu.be/PETGP3N9GOE
+
 📌 Project Description
 Welcome to the Fitness Website Landing Page – a fully responsive, modern, and sleek web design made for gyms, fitness centers, personal trainers, or any health-focused organization. This project showcases a vibrant, high-impact homepage that's designed to grab attention and deliver essential information quickly and efficiently.
 
@@ -11,8 +14,6 @@ Welcome to the Fitness Website Landing Page – a fully responsive, modern, and 
 [![FITNESS Demo](https://github.com/user-attachments/assets/7ccf3853-f096-4565-ab2a-374a33d2138a)](https://youtu.be/PETGP3N9GOE)
 
 
-🌐 Live Preview:
-🔗 Live Demo / Video: Watch on YouTube https://youtu.be/PETGP3N9GOE
 
 🚀 Features:
 🔥 Fully Responsive Layout
